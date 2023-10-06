@@ -105,6 +105,9 @@ O Babu suporta uma ampla variedade de campos para armazenamento de dados de form
 
 Você pode adicionar qualquer combinação desses campos ao seu objeto `fields` ao realizar uma solicitação de integração.
 
+## Exemplos de integração:
+**Joel Junior Manuel Fombe**: [Joel Junior Manuel Fombe](https://github.com/JoelJuniorManuelFombe/babu-form)
+
 ## Perguntas e Suporte
 
 Se você tiver alguma dúvida ou precisar de suporte adicional, sinta-se à vontade para entrar em contato conosco através do [suporte do Babu]([https://babuapp.com/support](https://babu.savanapoint.com/)).
